@@ -872,7 +872,7 @@ INSERT INTO hadoop.employees(name, title, salary) VALUES('ANTHONY,  STEVEN C','P
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ANTHOS,  ROSS A','MOTOR TRUCK DRIVER',70408.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ANTICO,  JOSEPH B','POLICE OFFICER',71040.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ANTKIEWICZ,  ELIZABETH T','POLICE OFFICER',77238.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('ANTONACCI,  JOHN M','GENERAL MANAGER OF OPERATIONS - O'HARE',109032.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('ANTONACCI,  JOHN M','GENERAL MANAGER OF OPERATIONS - OHARE',109032.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ANTONACCI,  KATHLEEN D','POLICE OFFICER',82878.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ANTONIAZZI,  ALBERT C','POLICE OFFICER',82878.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ANTONIAZZI,  BARRY M','PARAMEDIC',64374.0);
@@ -3637,7 +3637,7 @@ INSERT INTO hadoop.employees(name, title, salary) VALUES('BURKS,  DORIS M','PERS
 INSERT INTO hadoop.employees(name, title, salary) VALUES('BURKS,  JEFFERY G','POLICE OFFICER',64374.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('BURKS,  KEITH','SANITATION LABORER',65894.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('BURKS,  MELONEY D','TRAFFIC CONTROL AIDE-HOURLY',18886.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('BURKS,  ROSIE M','ADMINISTRATIVE ASST - O'HARE',80916.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('BURKS,  ROSIE M','ADMINISTRATIVE ASST - OHARE',80916.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('BURKS,  TRAYCE L','POLICE OFFICER',74628.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('BURLINSKI,  JIM A','MOTOR TRUCK DRIVER',70408.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('BURNETT JR,  WALTER','ALDERMAN',108086.0);
@@ -8577,7 +8577,7 @@ INSERT INTO hadoop.employees(name, title, salary) VALUES('ENRIQUEZ,  RAFAEL','EL
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ENRIQUEZ,  SALVADOR V','POLICE OFFICER',74628.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ENTER III,  JACK C','POLICE OFFICER',71040.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ENVERGA,  ALEXANDER N','ASST CHIEF OPERATING ENGINEER',95680.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('ENYIA,  AMARACHUKU C','STUDENT INTERN - MAYOR'S FELLOWS',36400.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('ENYIA,  AMARACHUKU C','STUDENT INTERN - MAYORS FELLOWS',36400.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('EPHRAIM,  BRIAN M','POLICE OFFICER',71040.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('EPHRAIM,  MICHAEL K','POLICE OFFICER',85278.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('EPICH,  KENNETH R','SERGEANT',98766.0);
@@ -9078,7 +9078,7 @@ INSERT INTO hadoop.employees(name, title, salary) VALUES('FERNANDEZ,  JOSE M','A
 INSERT INTO hadoop.employees(name, title, salary) VALUES('FERNANDEZ,  JOSE R','POLICE OFFICER',85278.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('FERNANDEZ,  JOSEPH D','POLICE OFFICER',74628.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('FERNANDEZ,  JULIO R','REGIONAL COMMUNICABLE DISEASE INVESTIGATOR',73752.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('FERNANDEZ,  MARCOS','GENERAL MANAGER OF OPERATIONS - O'HARE',114588.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('FERNANDEZ,  MARCOS','GENERAL MANAGER OF OPERATIONS - OHARE',114588.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('FERNANDEZ,  MICHAEL J','FIREFIGHTER',83148.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('FERNANDEZ,  NANCY','CROSSING GUARD - PER AGREEMENT',15153.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('FERNANDEZ,  OLGA T','SPECIALIST IN AGING I',60792.0);
@@ -15445,7 +15445,7 @@ INSERT INTO hadoop.employees(name, title, salary) VALUES('KARIM,  SHABANA F','ST
 INSERT INTO hadoop.employees(name, title, salary) VALUES('KARKAZIS,  PETER','FIREFIGHTER-EMT',78354.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('KARLIC,  KEVIN K','HOISTING ENGINEER',91104.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('KARN,  TIMOTHY D','POLICE OFFICER',83916.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('KARNER,  JOHN','STUDENT INTERN - MAYOR'S FELLOWS',36400.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('KARNER,  JOHN','STUDENT INTERN - MAYORS FELLOWS',36400.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('KARNEY,  CHRISTOPHER H','POLICE OFFICER',82878.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('KARNICK,  THOMAS E','CAPTAIN',121530.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('KARNUTH,  JOHN W','DEPUTY CHIEF INFORMATION OFFICER',109860.0);
@@ -16484,7 +16484,7 @@ INSERT INTO hadoop.employees(name, title, salary) VALUES('KROYER,  CYNTHIA M','P
 INSERT INTO hadoop.employees(name, title, salary) VALUES('KRUEGER,  ALBERT E','SUPERVISING CROSSING GUARD',47424.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('KRUEGER,  HANS K','PROJECTS ADMINISTRATOR',95808.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('KRUEGER,  MICHAEL P','POLICE OFFICER',74628.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('KRUGER,  EDWARD C','GENERAL MANAGER OF OPERATIONS - O'HARE',99696.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('KRUGER,  EDWARD C','GENERAL MANAGER OF OPERATIONS - OHARE',99696.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('KRUGER,  KARL D','POLICE OFFICER',74628.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('KRUK,  DAVID L','POLICE OFFICER',88260.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('KRUPA JR,  RONALD T','ELECTRICAL MECHANIC',84032.0);
@@ -18017,7 +18017,7 @@ INSERT INTO hadoop.employees(name, title, salary) VALUES('LUCKOW,  MICHAEL E','M
 INSERT INTO hadoop.employees(name, title, salary) VALUES('LUCZAK,  MARGARET B','POLICE OFFICER',77238.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('LUCZAK,  ROBERT J','PARKING ENFORCEMENT AIDE',44568.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('LUCZAK,  VINCENT E','FIREFIGHTER-EMT',78354.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('LUDEKING,  MARK J','STUDENT INTERN - MAYOR'S FELLOWS',36400.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('LUDEKING,  MARK J','STUDENT INTERN - MAYORS FELLOWS',36400.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('LUDWIG,  ANTHONY B','MOTOR TRUCK DRIVER',70408.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('LUDWIG,  DANIEL E','POLICE OFFICER',77238.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('LUDWIG,  KATHRYN E','ASST COMMISSIONER',99600.0);
@@ -18122,7 +18122,7 @@ INSERT INTO hadoop.employees(name, title, salary) VALUES('LYLES,  CHARLENE','POL
 INSERT INTO hadoop.employees(name, title, salary) VALUES('LYLES,  HERBERT J','MOTOR TRUCK DRIVER',70408.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('LYLES,  RUSSELL A','MOTOR TRUCK DRIVER',71469.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('LYMAN,  CHARLENE R','POLICE OFFICER',89646.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('LYMAN,  GEORGE W','GENERAL MANAGER OF OPERATIONS - O'HARE',106884.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('LYMAN,  GEORGE W','GENERAL MANAGER OF OPERATIONS - OHARE',106884.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('LYMAN,  GLEN P','CAPTAIN-PARAMEDIC',123090.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('LYMPERIS,  NICK S','POLICE OFFICER',82878.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('LYMPERIS,  VALERIE A','POLICE OFFICER',86508.0);
@@ -18785,7 +18785,7 @@ INSERT INTO hadoop.employees(name, title, salary) VALUES('MARTIN,  CARL E','POLI
 INSERT INTO hadoop.employees(name, title, salary) VALUES('MARTIN,  CAROLYN J','LABORATORY TECHNICIAN III',55872.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('MARTIN,  CHRISTOPHER T','POLICE OFFICER',74628.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('MARTIN,  CLIFFORD W','POLICE OFFICER',86508.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('MARTIN,  COURTNEY D','STUDENT INTERN - MAYOR'S OFFICE',18200.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('MARTIN,  COURTNEY D','STUDENT INTERN - MAYORS OFFICE',18200.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('MARTIN,  DALE J','POLICE OFFICER',77238.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('MARTIN,  DAREK J','FIREFIGHTER-EMT',67596.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('MARTIN,  DAVID J','CONSTRUCTION LABORER',73216.0);
@@ -20250,7 +20250,7 @@ INSERT INTO hadoop.employees(name, title, salary) VALUES('MESCALL,  KENNETH J','
 INSERT INTO hadoop.employees(name, title, salary) VALUES('MESECK,  JACK J','POLICE OFFICER',79926.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('MESKE,  NORMAN','PARAMEDIC I/C',83562.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('MESNARD,  JASON J','FIREFIGHTER-EMT',78354.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('MESSAR,  ABDER R','MANAGER-O'HARE MAINTENANCE CONTROL CENTER',103740.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('MESSAR,  ABDER R','MANAGER-OHARE MAINTENANCE CONTROL CENTER',103740.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('MESSENGER,  VERONICA J','INVESTIGATOR - IPRA III',107004.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('MESSER,  BARBARA','CROSSING GUARD',21268.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('MESSINA,  FRANK H','POLICE OFFICER',82878.0);
@@ -21686,7 +21686,7 @@ INSERT INTO hadoop.employees(name, title, salary) VALUES('NAGELLI,  ELIZABETH','
 INSERT INTO hadoop.employees(name, title, salary) VALUES('NAGLE,  JOHN J','CAPTAIN-EMT',116664.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('NAGODE,  ALFRED J','CAPTAIN',121530.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('NAJA,  KHALED Y','MANAGING DEPUTY COMMISSIONER',161652.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('NAJAR,  FELIPE J','GENERAL MANAGER OF OPERATIONS - O'HARE',114588.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('NAJAR,  FELIPE J','GENERAL MANAGER OF OPERATIONS - OHARE',114588.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('NAJAR,  MARIESTELA C','ASST TO THE COMMISSIONER',84780.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('NAJDALA,  IWONA M','POLICE OFFICER',67704.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('NAJM,  SEAN M','POLICE OFFICER',71040.0);
@@ -21850,7 +21850,7 @@ INSERT INTO hadoop.employees(name, title, salary) VALUES('NELSON JONES,  NEDRA L
 INSERT INTO hadoop.employees(name, title, salary) VALUES('NELSON LESLIE,  GAIL E','PUBLIC HEALTH NUTRITIONIST III',67308.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('NELSON,  ANTHONY R','SANITATION LABORER',65894.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('NELSON,  ANTWON M','POOL MOTOR TRUCK DRIVER',70408.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('NELSON,  ASHLI R','STUDENT INTERN - MAYOR'S OFFICE',36400.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('NELSON,  ASHLI R','STUDENT INTERN - MAYORS OFFICE',36400.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('NELSON,  AUDREY E','TRAFFIC CONTROL AIDE-HOURLY',18886.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('NELSON,  BARBARA A','TRAFFIC CONTROL AIDE-HOURLY',18886.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('NELSON,  CLARENCE L','AVIATION SECURITY OFFICER',58860.0);
@@ -22344,7 +22344,7 @@ INSERT INTO hadoop.employees(name, title, salary) VALUES('O CONNELL,  JAMES N','
 INSERT INTO hadoop.employees(name, title, salary) VALUES('O CONNELL,  KATHRYN','ASST TO THE MAYOR',60000.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('O CONNELL,  KIMBERLEY M','DIR OF STAFF DEVELOPMENT',110880.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('O CONNELL,  MATTHEW J','FIRE ENGINEER',86508.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('O' CONNELL,  MICHAEL F','FIREFIGHTER-EMT',78354.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('O CONNELL,  MICHAEL F','FIREFIGHTER-EMT',78354.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('O CONNELL,  PATRICK J','AMBULANCE COMMANDER',111096.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('O CONNELL,  PATRICK S','FIREFIGHTER/PARAMEDIC',80214.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('O CONNELL,  RICHARD P','PARAMEDIC I/C',83562.0);
@@ -22588,10 +22588,10 @@ INSERT INTO hadoop.employees(name, title, salary) VALUES('OBRECKI,  MARTIN A','P
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OBREGON III,  GEORGE F','OPERATING ENGINEER-GROUP C',82638.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OBREGON,  JOHN R','LABORER',73216.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OBREGON,  ROGELIO','EMERGENCY CREW DISPATCHER',73216.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('O'BRIEN,  KATHLEEN M','POLICE OFFICER',71040.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('O'BRIEN,  MARYANNE','LIEUTENANT',98766.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('O'BRIEN,  PATRICK M','OPERATING ENGINEER-GROUP C',82638.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('O'BRIEN,  RICHARD T','OPERATING ENGINEER-GROUP C',82638.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('OBRIEN,  KATHLEEN M','POLICE OFFICER',71040.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('OBRIEN,  MARYANNE','LIEUTENANT',98766.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('OBRIEN,  PATRICK M','OPERATING ENGINEER-GROUP C',82638.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('OBRIEN,  RICHARD T','OPERATING ENGINEER-GROUP C',82638.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OBRIEN,  RORY P','POLICE OFFICER',74628.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OBRIEN,  STUART','PLUMBER',91520.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OBROCHTA,  LAURA P','POLICE OFFICER',77238.0);
@@ -22628,8 +22628,8 @@ INSERT INTO hadoop.employees(name, title, salary) VALUES('OCON,  HECTOR D','POLI
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OCON,  ROGELIO','POLICE OFFICER',77238.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OCONNELL,  ROBERT D','POLICE OFFICER',79926.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OCONNELL,  THOMAS M','CONSTRUCTION LABORER',73216.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('O'CONNOR,  CHRISTINE M','POLICE OFFICER',77238.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('O'CONNOR,  ELIZABETH A','PROJECT COORD',70380.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('OCONNOR,  CHRISTINE M','POLICE OFFICER',77238.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('OCONNOR,  ELIZABETH A','PROJECT COORD',70380.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OCONNOR,  PAUL B','FIRE ENGINEER',83562.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ODDO,  JAMES M','POLICE OFFICER',85278.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ODEGARD,  CHARLES B','POLICE OFFICER',79926.0);
@@ -22641,8 +22641,8 @@ INSERT INTO hadoop.employees(name, title, salary) VALUES('ODIBO,  GRACE E','WATE
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ODLEVAK,  THERESE A','LIBRARIAN II',66300.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ODOM,  JERALD H','MOTOR TRUCK DRIVER',71469.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ODOMS,  LAURENCE K','POLICE OFFICER',79926.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('O'DONNELL,  BRIAN J','FIREFIGHTER-EMT',67596.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('O'DONNELL,  PAUL M','STEAMFITTER',89752.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('ODONNELL,  BRIAN J','FIREFIGHTER-EMT',67596.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('ODONNELL,  PAUL M','STEAMFITTER',89752.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ODONNELL,  VIRGINIA T','POLICE OFFICER',74628.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ODUFUYE,  IMANI','FIREFIGHTER-EMT',78354.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ODUGBESAN,  BABAFEMI A','POLICE OFFICER',74628.0);
@@ -22677,7 +22677,7 @@ INSERT INTO hadoop.employees(name, title, salary) VALUES('OKANU,  UBAKU P','PUBL
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OKARA,  SHEILA J','TRAFFIC CONTROL AIDE-HOURLY',18886.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OKAWA,  ERI','PARAMEDIC',74628.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OKAZAKI,  DEVIN B','POLICE OFFICER',79926.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('O'KEEFFE,  KEVIN R','HOISTING ENGINEER',93808.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('OKEEFFE,  KEVIN R','HOISTING ENGINEER',93808.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OKERE,  BEATRICE N','PROGRAM AUDITOR II',64248.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OKODUA,  MARGARET','PUBLIC HEALTH NURSE II',84420.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OKON,  ANDREW E','FIREFIGHTER-EMT',67596.0);
@@ -22699,7 +22699,7 @@ INSERT INTO hadoop.employees(name, title, salary) VALUES('OLDENBURGER,  BOB','PO
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OLDHAM,  MAURICE E','AVIATION SECURITY OFFICER',58860.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OLDHAM,  SCOTT S','POLICE OFFICER',77238.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OLDS,  CELESTE E','MOTOR TRUCK DRIVER',70408.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('O'LEARY,  CAROL A','SR LEGAL PERSONAL COMPUTER OPERATOR',38184.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('OLEARY,  CAROL A','SR LEGAL PERSONAL COMPUTER OPERATOR',38184.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OLEJNICZAK,  GREGORY J','FIREFIGHTER-EMT',81096.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OLEKSY,  BRIAN M','FIREFIGHTER/PARAMEDIC',80214.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OLEKSY,  RONALD A','MACHINIST (AUTOMOTIVE)',89773.0);
@@ -22789,7 +22789,7 @@ INSERT INTO hadoop.employees(name, title, salary) VALUES('OMURO,  DAVID D','SERG
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ONATE,  ALBERTO','CONSTRUCTION LABORER',73216.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ONEAL,  TAMONICA','INVESTIGATOR',25000.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ONEAL-GREENE,  RACHELLE','POLICE COMMUNICATIONS OPERATOR I',58860.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('O'NEILL,  DENISE M','ALDERMANIC AIDE',36840.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('ONEILL,  DENISE M','ALDERMANIC AIDE',36840.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ONEILL,  KEVIN P','POLICE OFFICER',74628.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ONEILL,  MICHAEL E','LIEUTENANT-EMT',103704.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ONESTO,  ANDREW M','POLICE OFFICER',60918.0);
@@ -22975,7 +22975,7 @@ INSERT INTO hadoop.employees(name, title, salary) VALUES('OSTROWSKI,  JON A','PO
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OSTROWSKI,  MICHAEL W','POLICE OFFICER',79926.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OSUCH,  PAWEL F','FIREFIGHTER-EMT',81096.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OSUCHOWSKI,  THERESA','DIR OF INFORMATION SYSTEMS',79464.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('O'SULLIVAN,  BARBARA B','LIEUTENANT',111096.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('OSULLIVAN,  BARBARA B','LIEUTENANT',111096.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OSUNA,  VINCENT P','POLICE OFFICER',79926.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OSUOJI,  ERIC E','POLICE OFFICER',77238.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('OSWALD,  DENISE M','POLICE OFFICER',74628.0);
@@ -27209,7 +27209,7 @@ INSERT INTO hadoop.employees(name, title, salary) VALUES('SANDERS,  ARTHUR','LIE
 INSERT INTO hadoop.employees(name, title, salary) VALUES('SANDERS,  CARTHELL L','POLICE OFFICER',79926.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('SANDERS,  CHRISTINE D','CROSSING GUARD',15319.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('SANDERS,  ELLIOTT T','SANITATION LABORER',46134.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('SANDERS,  ERIC J','AIRPORT MANAGER - O'HARE',89364.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('SANDERS,  ERIC J','AIRPORT MANAGER - OHARE',89364.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('SANDERS,  ERICA D','INVESTIGATOR - IPRA III',97536.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('SANDERS,  ERIN R','LIBRARIAN I',60180.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('SANDERS,  FRANK J','FIREFIGHTER',83148.0);
@@ -28632,7 +28632,7 @@ INSERT INTO hadoop.employees(name, title, salary) VALUES('SMITH,  DENISE','ADMIN
 INSERT INTO hadoop.employees(name, title, salary) VALUES('SMITH,  DENNIS L','SERGEANT',95694.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('SMITH,  DERRICK A','SANITATION LABORER',65894.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('SMITH,  DERRICK F','POLICE OFFICER',82878.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('SMITH,  DESIREE'','POLICE COMMUNICATIONS OPERATOR I',48924.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('SMITH,  DESIREE','POLICE COMMUNICATIONS OPERATOR I',48924.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('SMITH,  DEVETTA L','RECRUITING ANALYST',62340.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('SMITH,  DIANA L','CROSSING GUARD - PER AGREEMENT',14487.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('SMITH,  DON M','PLUMBING INSPECTOR',93840.0);
@@ -29112,7 +29112,7 @@ INSERT INTO hadoop.employees(name, title, salary) VALUES('SPENCER,  RUSSELL C','
 INSERT INTO hadoop.employees(name, title, salary) VALUES('SPENCER,  SMITH','ASST CORPORATION COUNSEL',75312.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('SPENCER,  WILLIAM P','AVIATION SECURITY SERGEANT',52008.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('SPENCER,  YAVON','TRAFFIC CONTROL AIDE-HOURLY',18886.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('SPENDLOVE,  JONATHAN','STUDENT INTERN - MAYOR'S FELLOWS',36400.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('SPENDLOVE,  JONATHAN','STUDENT INTERN - MAYORS FELLOWS',36400.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('SPERINDEO,  PAT C','LIEUTENANT',101958.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('SPERRY,  HEIDI L','COORD OF SPECIAL PROJECTS',73752.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('SPIEGEL,  ROBERT L','POLICE OFFICER',74628.0);
@@ -29733,7 +29733,7 @@ INSERT INTO hadoop.employees(name, title, salary) VALUES('SUERTH,  STEPHEN J','H
 INSERT INTO hadoop.employees(name, title, salary) VALUES('SUGAR,  ELVIS A','FIREFIGHTER-EMT',71082.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('SUGGS,  AISHIA L','POLICE COMMUNICATIONS OPERATOR II',67656.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('SUGGS,  BYRON','LIBRARY CLERK - HOURLY',14706.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('SUGGS,  KE'ANNA D','HAND LABORER',39541.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('SUGGS,  KEANNA D','HAND LABORER',39541.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('SUGRUE,  DENIS J','POLICE OFFICER',79926.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('SUH,  HYO KYOUNG','LIBRARIAN I',49452.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('SUING,  MICHAEL W','POLICE OFFICER',74628.0);
@@ -30097,7 +30097,7 @@ INSERT INTO hadoop.employees(name, title, salary) VALUES('TARAS,  LISA A','POLIC
 INSERT INTO hadoop.employees(name, title, salary) VALUES('TARASIEWICZ,  PHILLIP P','MOTOR TRUCK DRIVER',70408.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('TARASIUK,  JOHNNY','POLICE OFFICER',77238.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('TARASZKIEWICZ,  ARTHUR R','POLICE OFFICER',83562.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('TARDIFF,  KELSEY','STUDENT INTERN - MAYOR'S FELLOWS',36400.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('TARDIFF,  KELSEY','STUDENT INTERN - MAYORS FELLOWS',36400.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('TARIN,  VIVIANA','STUDENT INTERN - CITY CLERK',10920.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('TARIQ,  MOHAMMAD','FINANCE OFFICER',76116.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('TARLETON,  ELLA L','ADMINISTRATIVE ASST III',73848.0);
@@ -34090,7 +34090,7 @@ INSERT INTO hadoop.employees(name, title, salary) VALUES('ZHANG,  KEFENG','SENIO
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ZHANG,  LIN','TRAFFIC CONTROL AIDE',42516.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ZHEN CHEN,  XIU','SENIOR COMPANION',2756.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ZHEN,  CHRISTINE','LIBRARY PAGE',11471.0);
-INSERT INTO hadoop.employees(name, title, salary) VALUES('ZHU,  TERESA R','STUDENT INTERN - MAYOR'S FELLOWS',36400.0);
+INSERT INTO hadoop.employees(name, title, salary) VALUES('ZHU,  TERESA R','STUDENT INTERN - MAYORS FELLOWS',36400.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ZIA,  GREGORY P','POLICE OFFICER',77238.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ZIA,  KEVIN M','POLICE OFFICER',74628.0);
 INSERT INTO hadoop.employees(name, title, salary) VALUES('ZIARNO,  ELIZABETH','PARALEGAL II',64248.0);
