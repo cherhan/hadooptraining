@@ -1,0 +1,2 @@
+wget http://repo.hortonworks.com/content/repositories/releases/org/apache/hadoop/hadoop-streaming/2.7.1.2.3.0.0-2557/hadoop-streaming-2.7.1.2.3.0.0-2557.jar
+
